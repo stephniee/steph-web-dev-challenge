@@ -1,5 +1,26 @@
-100 Days of Web Development - Angela Yu (Udemy)
+# 100 Days of Web Development - My Learning Journey
 
-📌 Course Overview
+## 📌 Overview
+This repository documents my journey through **Angela Yu's 100 Days of Web Development** course on Udemy. I'll be following the course structure, building projects, and tracking my progress.
 
-The 100 Days of Web Development course by Angela Yu on Udemy is a comprehensive, project-based learning experience designed to take students from absolute beginners to proficient web developers. The course covers HTML, CSS, JavaScript, Node.js, React, Databases, APIs, and more, with hands-on projects to reinforce concepts.
+## 📆 Progress Tracker
+| Day  | Topic Covered  | Notes  |
+|------|--------------|--------|
+| 1    | HTML & CSS Basics | First webpage created! |
+| 2    | Flexbox & Grid | Practiced layout techniques. |
+| ...  | ... | ... |
+
+## 🚀 Projects
+
+## 🎯 Goals
+- Complete all 100 days
+=
+
+## 📎 Resources
+- **Course Link**: [Udemy Course](https://www.udemy.com/)
+- **Instructor**: [Angela Yu](https://www.linkedin.com/in/angela-yu-963a584b/)
+
+---
+
+🚀 Let's code!
+
