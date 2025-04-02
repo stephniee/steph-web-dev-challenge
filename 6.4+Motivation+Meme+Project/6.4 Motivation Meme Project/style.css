@@ -6,6 +6,7 @@ h1 {
     font-family:"Libre Baskerville";
     color: white;
     align-items: center;
+    text-transform: uppercase;
 }
 
 p {
