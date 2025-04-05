@@ -1,0 +1,18 @@
+/* Write your code here: */
+.box > .done {
+    color: firebrick;
+}
+
+h1,h2{
+    color: purple;
+}
+
+.list li{
+    color: blue;
+}
+
+/* tiny other items */
+
+ul > p.done{
+    font-size: 0.5rem;
+}
